@@ -84,7 +84,6 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 - Clear visual representation of key metrics
 - Designed for business and stakeholder analysis
 
-*(Add dashboard screenshots here if available)*
 
 ---
 
