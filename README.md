@@ -107,16 +107,22 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
   - Visual storytelling
   - Stakeholder-ready insights
 
----
-
-## ▶️ How to Run the Project
-
-### 1️⃣ Clone the Repository
-```bash
-git clone <repository-url>
 
 
 
+3.Open and run the Jupyter Notebook for:
+
+--Data loading
+
+--EDA
+
+--Data cleaning
+
+4.Load cleaned data into your preferred SQL database
+
+5.Execute SQL queries provided in the /sql folder
+
+6.Open Power BI file (.pbix) to view the dashboard
 
 
 
