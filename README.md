@@ -112,6 +112,9 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 ### Clone the repository
 ```bash
 git clone <repository-url>
+### Install required Python libraries
+pip install pandas numpy matplotlib seaborn
+
 
 
 
