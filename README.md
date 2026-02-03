@@ -109,28 +109,14 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 
 ---
 
-## ▶️ How to Run the Project
+### 1️⃣ Clone the Repository
+- Clone the project repository from GitHub
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-
-2.Install required Python libraries:
 ```bash
-pip install pandas numpy matplotlib seaborn
-3.Open and Run the Jupyter Notebook
-- Data loading
-- Exploratory Data Analysis (EDA)
-- Data cleaning
-
-4.Load Cleaned Data into SQL Database
-- Load data into your preferred SQL database
-
-5.Execute SQL Queries
-- Run SQL queries provided in the `/sql` folder
-
-6.View the Dashboard
-- Open the Power BI (`.pbix`) file to view the dashboard
+git clone <repository-url>
+2️⃣ Install Required Python Libraries
+ Install the necessary Python packages
+    pip install pandas numpy matplotlib seaborn
 
 
  
