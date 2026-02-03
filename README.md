@@ -109,9 +109,10 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 
 ## ▶️ How to Run the Project
 
-- Install required Python libraries:
+- 📥 **Clone the repository**
   ```bash
-  pip install pandas numpy matplotlib seaborn
+  git clone <repository-url>
+
 
 
 
