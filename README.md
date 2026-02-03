@@ -120,7 +120,6 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 pip install pandas numpy matplotlib seaborn
 
 
-
  
 
 
