@@ -107,6 +107,30 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
   - Visual storytelling
   - Stakeholder-ready insights
 
+▶️ How to Run the Project
+
+1.Clone the repository:
+
+git clone <repository-url>
+2.git clone <repository-url>
+Install required Python libraries:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
