@@ -109,15 +109,33 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 
 ---
 
-### 1️⃣ Clone the Repository
-- Clone the project repository from GitHub
+## ▶️ How to Run the Project
 
+### 1️⃣ Clone the Repository
 ```bash
 git clone <repository-url>
 
 
 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
