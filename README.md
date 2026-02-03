@@ -106,12 +106,14 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
   - Executive summary
   - Visual storytelling
   - Stakeholder-ready insights
-
+  - 
 ## ▶️ How to Run the Project
 
-- 📥 **Clone the repository**
-  ```bash
-  git clone <repository-url>
+### 1️⃣ Clone the Repository
+```bash
+git clone <repository-url>
+2️⃣ Install Required Python Libraries
+pip install pandas numpy matplotlib seaborn
 
 
 
