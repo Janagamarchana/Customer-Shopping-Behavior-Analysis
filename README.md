@@ -118,6 +118,19 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 2.Install required Python libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
+3.Open and Run the Jupyter Notebook
+- Data loading
+- Exploratory Data Analysis (EDA)
+- Data cleaning
+
+4.Load Cleaned Data into SQL Database
+- Load data into your preferred SQL database
+
+5.Execute SQL Queries
+- Run SQL queries provided in the `/sql` folder
+
+6.View the Dashboard
+- Open the Power BI (`.pbix`) file to view the dashboard
 
 
  
