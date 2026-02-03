@@ -107,40 +107,11 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
   - Visual storytelling
   - Stakeholder-ready insights
 
----
-
 ## ▶️ How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-Install required Python libraries:
+- Install required Python libraries:
+  ```bash
+  pip install pandas numpy matplotlib seaborn
 
-pip install pandas numpy matplotlib seaborn
-Run the Jupyter Notebook to:
 
-Load data
-
-Perform EDA
-
-Clean and transform data
-
-Load cleaned data into PostgreSQL / MySQL / SQL Server
-
-Execute SQL queries from the sql folder
-
-Open the Power BI (.pbix) file to explore the dashboard
-
-🚀 Skills Demonstrated
-Data Analysis & EDA
-
-Python & SQL
-
-Data Cleaning & Transformation
-
-Dashboard Development (Power BI)
-
-Business Insight Communication
-
-End-to-End Analytics Workflow
 
