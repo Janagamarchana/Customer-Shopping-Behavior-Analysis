@@ -112,8 +112,29 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 ### Clone the repository
 ```bash
 git clone <repository-url>
+```
+
 ### Install required Python libraries
+```bash
 pip install pandas numpy matplotlib seaborn
+```
+
+### Open and run the Jupyter Notebook
+- Load the dataset
+- Perform Exploratory Data Analysis (EDA)
+- Clean and transform the data
+
+### Load cleaned data into SQL database
+- PostgreSQL
+- MySQL
+- SQL Server
+
+### Execute SQL queries
+- Run queries provided in the `/sql` folder
+
+### View the dashboard
+- Open the Power BI (`.pbix`) file
+
 
 
 
