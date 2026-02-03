@@ -114,7 +114,7 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
     git clone <repository-url>
 2.Install required Python libraries
 ```bash
-pip install pandas numpy matplotlib seaborn
+   pip install pandas numpy matplotlib seaborn
 
 
 
