@@ -112,11 +112,11 @@ It highlights practical skills in **Python, SQL, Power BI, reporting, and presen
 
 3.Open and run the Jupyter Notebook for:
 
---Data loading
+-Data loading
 
---EDA
+-EDA
 
---Data cleaning
+-Data cleaning
 
 4.Load cleaned data into your preferred SQL database
 
