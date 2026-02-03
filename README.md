@@ -137,19 +137,15 @@ pip install pandas numpy matplotlib seaborn
 
 
 
-🚀 Key Skills Demonstrated
+## 🚀 Key Skills Demonstrated
 
-- Data Analysis & EDA
-
+- Data Analysis & Exploratory Data Analysis (EDA)
 - Python & SQL
-
 - Data Cleaning & Transformation
-
-- Dashboard Development
-
+- Dashboard Development (Power BI)
 - Business Insight Communication
-
 - End-to-End Analytics Workflow
+
 
 
 
